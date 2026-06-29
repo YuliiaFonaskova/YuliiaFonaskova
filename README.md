@@ -44,7 +44,7 @@ Technologies: JavaScript, WebdriverIO, Mocha, Chai, Allure Reporter, POM, ESLint
 * Generated test reports using Allure Reporter.
 
 🔗 Repository:
-https://github.com/YuliiaFonaskova/FinalTaskEpam
+https://github.com/YuliiaFonaskova/WebdriverioSaucedemoTesting
 
 ---
 
@@ -57,7 +57,7 @@ Technologies: JavaScript, WebdriverIO, Mocha, Chai, ESLint, POM
 * Practiced UI automation techniques and reusable framework design.
 
 🔗 Repository:
-[https://github.com/YuliiaFonaskova/SpecializationEpamTask2](https://github.com/YuliiaFonaskova/WebdriverioSaucedemoTesting)
+https://github.com/YuliiaFonaskova/WebdriverIOPracticeSoftwareTesting
 
 ---
 

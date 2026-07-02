@@ -89,6 +89,20 @@ https://github.com/YuliiaFonaskova/CypressPracticeSoftwareTesting
 
 ---
 
+🚀 API Practice Software Testing
+
+Technologies: JavaScript, Native Fetch API, Mocha, Chai, REST API
+
+Developed an API automation project for the Restful Booker API using JavaScript and Native Fetch API.
+Automated authentication, booking creation, retrieval, update, and deletion scenarios.
+Validated API responses using Chai assertions.
+Implemented end-to-end CRUD API testing workflows.
+
+🔗 Repository:
+https://github.com/YuliiaFonaskova/APIPractiseSoftwareTesting
+
+---
+
 ## Courses & Training
 
 * EPAM Systems – [Specialization] Automated Testing in JavaScript CEE
@@ -103,6 +117,9 @@ https://github.com/YuliiaFonaskova/CypressPracticeSoftwareTesting
 
 * Automated Testing in JavaScript – EPAM Systems
 * Claude 101 – Anthropic
+* API Testing Foundation (2018) - Linkedin Learning
+* API Testing Foundation - Linkedin Learning
+* Postman Essential Training - Linkedin Learning
 
 ---
 

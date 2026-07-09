@@ -1,134 +1,194 @@
 # Hi, I'm Yuliia Fonaskova 👋
 
-## Junior QA Automation Engineer
+## Junior QA Automation Engineer | JavaScript | Playwright | Cypress | WebdriverIO | API Testing
 
-📍 Krakow, Poland
-
-### About Me
-
-* Junior QA Automation Engineer with hands-on experience in JavaScript and modern test automation frameworks.
-* Currently completing the EPAM Specialization in Automated Testing in JavaScript.
-* Passionate about software quality, test automation, and AI-powered productivity tools.
-* Experienced in UI and API testing, Page Object Model (POM), and cross-browser testing.
+📍 Kraków, Poland
 
 ---
 
-## Tech Stack
+# About Me
 
-💻 JavaScript (ES6)
+I am a Junior QA Automation Engineer focused on JavaScript test automation.
 
-🧪 WebdriverIO
+Currently, I am completing the **EPAM Specialization in Automated Testing in JavaScript**, where I build automation frameworks, implement UI and API tests, configure CI pipelines, and apply software engineering best practices.
 
-🎭 Playwright
-
-🌲 Cypress
-
-📮 Postman & REST API
-
-🔧 Git & GitHub
-
-📄 HTML • CSS • DOM
-
-📊 Allure Reporter • Mochawesome
+I enjoy creating clean, maintainable automation frameworks using the Page Object Model, writing reliable UI and API tests, and continuously improving my technical skills.
 
 ---
 
-## Projects
+# Tech Stack
 
-### 🚀 WebdriverIO Saucedemo Automation Framework
+### Languages
 
-Technologies: JavaScript, WebdriverIO, Mocha, Chai, Allure Reporter, POM, ESLint
+- JavaScript (ES6)
 
-* Automated login, product details, cart, and footer scenarios.
-* Implemented reusable Page Object Model architecture.
-* Generated test reports using Allure Reporter.
+### UI Test Automation
 
-🔗 Repository:
-https://github.com/YuliiaFonaskova/WebdriverioSaucedemoTesting
+- Playwright
+- Cypress
+- WebdriverIO
+
+### API Testing
+
+- REST API
+- Native Fetch API
+- Postman
+
+### Test Frameworks
+
+- Mocha
+- Chai
+
+### Test Automation
+
+- Page Object Model (POM)
+- Cross-browser Testing
+- Parallel Execution
+- Retry Mechanisms
+
+### Reporting
+
+- Allure Reporter
+- Mochawesome
+
+### CI/CD & Quality
+
+- Git
+- GitHub
+- GitHub Actions
+- ESLint
+- Prettier
+
+### Web
+
+- HTML
+- CSS
+- DOM
 
 ---
 
-### 🚀 WebdriverIO Practice Software Testing
+# Projects
 
-Technologies: JavaScript, WebdriverIO, Mocha, Chai, ESLint, POM
+## 🚀 Playwright Practice Software Testing
 
-* Automated user scenarios.
-* Created maintainable test architecture.
-* Practiced UI automation techniques and reusable framework design.
+**Technologies**
 
-🔗 Repository:
-https://github.com/YuliiaFonaskova/WebdriverIOPracticeSoftwareTesting
+JavaScript • Playwright • POM • Dotenv • HTML Reporter • ESLint • Prettier • GitHub Actions
 
----
+**Highlights**
 
-### 🚀 Playwright Practice Software Testing
+- Automated login, search, product details and cart scenarios.
+- Implemented reusable Page Object Model architecture.
+- Configured cross-browser execution (Chromium, Firefox and WebKit).
+- Enabled parallel execution and retry mechanism.
+- Integrated HTML reporting.
+- Configured GitHub Actions to run linters before automated tests.
 
-Technologies: JavaScript, Playwright, Page Object Model, Dotenv
-
-* Automated login, search, product details, and cart scenarios.
-* Configured cross-browser testing (Chromium, Firefox, WebKit).
-* Implemented parallel execution and retry mechanism.
-* Generated HTML reports.
-
-🔗 Repository:
+🔗 Repository:  
 https://github.com/YuliiaFonaskova/PlaywrightPracticeSoftwareTesting
 
 ---
 
-### 🚀 Cypress Practice Software Testing
+## 🚀 Cypress Practice Software Testing
 
-Technologies: JavaScript, Cypress, Page Object Model, Mochawesome
+**Technologies**
 
-* Automated login, search, product details, and cart scenarios.
-* Configured cross-browser execution.
-* Generated HTML and JSON reports.
-* Implemented reusable project structure.
+JavaScript • Cypress • POM • Mochawesome • ESLint • Prettier • GitHub Actions
 
-🔗 Repository:
+**Highlights**
+
+- Automated login, search, product details and cart scenarios.
+- Implemented reusable Page Object Model architecture.
+- Configured cross-browser execution (Chrome, Firefox and Edge).
+- Generated HTML and JSON reports with Mochawesome.
+- Configured GitHub Actions pipeline with linting and automated test execution.
+
+🔗 Repository:  
 https://github.com/YuliiaFonaskova/CypressPracticeSoftwareTesting
 
 ---
 
-🚀 API Practice Software Testing
+## 🚀 API Practice Software Testing
 
-Technologies: JavaScript, Native Fetch API, Mocha, Chai, REST API
+**Technologies**
 
-Developed an API automation project for the Restful Booker API using JavaScript and Native Fetch API.
-Automated authentication, booking creation, retrieval, update, and deletion scenarios.
-Validated API responses using Chai assertions.
-Implemented end-to-end CRUD API testing workflows.
+JavaScript • Native Fetch API • REST API • Mocha • Chai • ESLint • Prettier • GitHub Actions
 
-🔗 Repository:
+**Highlights**
+
+- Built an API automation framework for the Restful Booker API.
+- Automated authentication and full CRUD operations.
+- Verified status codes, headers and response bodies.
+- Implemented reusable service layer and test data.
+- Integrated API tests into GitHub Actions.
+
+🔗 Repository:  
 https://github.com/YuliiaFonaskova/APIPractiseSoftwareTesting
 
 ---
 
-## Courses & Training
+## 🚀 WebdriverIO Practice Software Testing
 
-* EPAM Systems – [Specialization] Automated Testing in JavaScript CEE
-* EPAM Systems – [Fundamentals] Automated Testing in JavaScript
-* EPAM Systems – [Introduction] Automated Testing in JavaScript
-* Beetroot Academy – QA Manual Testing
-* Genius Space – Software Tester
+**Technologies**
 
----
+JavaScript • WebdriverIO • Mocha • Chai • POM • HTML Reporter • Spec Reporter • ESLint • Prettier • GitHub Actions
 
-## Certifications
+**Highlights**
 
-* Automated Testing in JavaScript – EPAM Systems
-* Claude 101 – Anthropic
-* API Testing Foundation (2018) - Linkedin Learning
-* API Testing Foundation - Linkedin Learning
-* Postman Essential Training - Linkedin Learning
+- Automated end-to-end UI scenarios.
+- Implemented reusable Page Object Model architecture.
+- Integrated HTML and console reporting.
+- Configured GitHub Actions with automated linting and UI testing.
+
+🔗 Repository:  
+https://github.com/YuliiaFonaskova/WebdriverIOPracticeSoftwareTesting
 
 ---
 
-## Contact Me
+## 🚀 WebdriverIO SauceDemo Testing
 
-📧 Email: [yuliia.fonaskova@gmail.com](mailto:yuliia.fonaskova@gmail.com)
+**Technologies**
 
-💼 LinkedIn:
+JavaScript • WebdriverIO • Mocha • Chai • POM • Allure Reporter • ESLint
+
+**Highlights**
+
+- Automated login, product details, cart and footer scenarios.
+- Implemented reusable Page Object Model architecture.
+- Generated Allure reports.
+- Practiced UI automation with WebdriverIO.
+
+🔗 Repository:  
+https://github.com/YuliiaFonaskova/WebdriverioSaucedemoTesting
+
+---
+
+# Courses & Training
+
+- EPAM Systems — Specialization: Automated Testing in JavaScript
+- EPAM Systems — Fundamentals of Automated Testing in JavaScript
+- EPAM Systems — Introduction to Automated Testing in JavaScript
+- Beetroot Academy — QA Manual Testing
+- Genius Space — Software Tester
+
+---
+
+# Certifications
+
+- Automated Testing in JavaScript — EPAM Systems
+- Claude 101 — Anthropic
+- API Testing Foundations — LinkedIn Learning
+- Postman Essential Training — LinkedIn Learning
+
+---
+
+# Contact
+
+📧 Email  
+**yuliia.fonaskova@gmail.com**
+
+💼 LinkedIn  
 https://www.linkedin.com/in/yuliia-fonaskova
 
-🐱 GitHub:
+🐱 GitHub  
 https://github.com/YuliiaFonaskova

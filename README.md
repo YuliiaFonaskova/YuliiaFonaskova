@@ -4,8 +4,6 @@
 
 📍 Kraków, Poland
 
-JavaScript • Playwright • Cypress • WebdriverIO • API Testing
-
 ---
 
 ## 👩‍💻 About Me
@@ -14,105 +12,87 @@ I am a Junior QA Automation Engineer specializing in JavaScript test automation.
 
 Currently, I am completing the **EPAM Specialization in Automated Testing in JavaScript**, where I build automation frameworks, implement UI and API tests, configure CI pipelines, and apply software engineering best practices.
 
-I enjoy building clean and maintainable automation frameworks, improving software quality, and continuously learning modern QA technologies.
+I enjoy creating clean and maintainable automation frameworks, improving software quality, and continuously learning modern QA technologies.
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Featured Projects
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,nodejs,playwright,cypress,html,css,git,github,vscode" />
-</p>
+## 🎭 Playwright Practice Software Testing
 
-**Testing & QA**
+**JavaScript • Playwright • Page Object Model • HTML Reporter • GitHub Actions**
 
-- WebdriverIO
-- REST API
-- Postman
-- Mocha
-- Chai
-- GitHub Actions
-- ESLint
-- Prettier
-- Allure Report
-- Mochawesome
-- Page Object Model (POM)
----
+- Automated login, search, product details, and cart scenarios.
+- Cross-browser testing (Chromium, Firefox, WebKit).
+- Parallel execution and retry mechanism.
+- Integrated ESLint, Prettier, and GitHub Actions.
 
-## 🚀 Featured Projects
+🔗 Repository
 
-### 🎭 Playwright Practice Software Testing
-
-**JavaScript • Playwright • POM • HTML Reporter • GitHub Actions**
-
-- Cross-browser testing (Chromium, Firefox, WebKit)
-- Parallel execution
-- Retry mechanism
-- Login, Search, Product Details, Cart
-- GitHub Actions + ESLint + Prettier
-
-🔗 https://github.com/YuliiaFonaskova/PlaywrightPracticeSoftwareTesting
+https://github.com/YuliiaFonaskova/PlaywrightPracticeSoftwareTesting
 
 ---
 
-### 🌲 Cypress Practice Software Testing
+## 🌲 Cypress Practice Software Testing
 
-**JavaScript • Cypress • Mochawesome • POM • GitHub Actions**
+**JavaScript • Cypress • Mochawesome • GitHub Actions**
 
-- Chrome, Firefox and Edge execution
-- Mochawesome HTML reports
-- Login, Search, Product Details, Cart
-- ESLint + Prettier
-- GitHub Actions
+- Automated login, search, product details, and cart scenarios.
+- Cross-browser testing (Chrome, Firefox, Edge).
+- HTML and JSON reporting with Mochawesome.
+- Integrated ESLint, Prettier, and GitHub Actions.
 
-🔗 https://github.com/YuliiaFonaskova/CypressPracticeSoftwareTesting
+🔗 Repository
+
+https://github.com/YuliiaFonaskova/CypressPracticeSoftwareTesting
 
 ---
 
-### 📮 API Practice Software Testing
+## 📮 API Practice Software Testing
 
 **JavaScript • REST API • Native Fetch API • Mocha • Chai**
 
-- Authentication
-- CRUD Operations
-- Status code validation
-- Header validation
-- Response body validation
-- GitHub Actions
+- Automated authentication and CRUD operations.
+- Validated status codes, headers, and response bodies.
+- Built reusable API services and test data.
+- Integrated GitHub Actions.
 
-🔗 https://github.com/YuliiaFonaskova/APIPractiseSoftwareTesting
+🔗 Repository
+
+https://github.com/YuliiaFonaskova/APIPractiseSoftwareTesting
 
 ---
 
-### ⚡ WebdriverIO Practice Software Testing
+## ⚡ WebdriverIO Practice Software Testing
 
 **JavaScript • WebdriverIO • HTML Reporter • Spec Reporter**
 
-- End-to-end UI testing
-- Page Object Model
-- HTML reports
-- ESLint + Prettier
-- GitHub Actions
+- Automated end-to-end UI scenarios.
+- Implemented reusable Page Object Model architecture.
+- Integrated HTML reporting.
+- Configured ESLint, Prettier, and GitHub Actions.
 
-🔗 https://github.com/YuliiaFonaskova/WebdriverIOPracticeSoftwareTesting
+🔗 Repository
+
+https://github.com/YuliiaFonaskova/WebdriverIOPracticeSoftwareTesting
 
 ---
 
-### 🚀 WebdriverIO SauceDemo Testing
+## 🚀 WebdriverIO SauceDemo Testing
 
 **JavaScript • WebdriverIO • Allure Reporter**
 
-- Login automation
-- Product page
-- Cart
-- Footer
-- Allure reports
+- Automated login, product details, cart, and footer scenarios.
+- Implemented reusable Page Object Model architecture.
+- Generated Allure reports.
 
-🔗 https://github.com/YuliiaFonaskova/WebdriverioSaucedemoTesting
+🔗 Repository
+
+https://github.com/YuliiaFonaskova/WebdriverioSaucedemoTesting
 
 ---
 
-## 🎓 Courses
+# 🎓 Courses
 
 - EPAM Systems — Specialization: Automated Testing in JavaScript
 - EPAM Systems — Fundamentals of Automated Testing in JavaScript
@@ -122,7 +102,7 @@ I enjoy building clean and maintainable automation frameworks, improving softwar
 
 ---
 
-## 🏆 Certifications
+# 🏆 Certifications
 
 - Automated Testing in JavaScript — EPAM Systems
 - Claude 101 — Anthropic
@@ -133,7 +113,7 @@ I enjoy building clean and maintainable automation frameworks, improving softwar
 
 ---
 
-## 📫 Contact Me
+# 📫 Contact
 
 📧 **Email**
 

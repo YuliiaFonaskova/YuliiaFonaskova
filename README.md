@@ -18,21 +18,52 @@ I enjoy creating clean, maintainable automation frameworks using the Page Object
 
 ## Tech Stack
 
-| Languages | UI Test Automation | API Testing |
-|---|---|---|
-| JavaScript (ES6) | Playwright | REST API |
-| HTML | Cypress | Native Fetch API |
-| CSS | WebdriverIO | Postman |
-| DOM | Cross-browser Testing | HTTP Methods |
+<table>
+<tr>
+<td valign="top" width="33%">
 
-| Test Frameworks | Reporting | CI/CD & Code Quality |
-|---|---|---|
-| Mocha | Allure Reporter | Git |
-| Chai | Mochawesome | GitHub |
-| Page Object Model (POM) | HTML Reporter | GitHub Actions |
-| Test Data Management | Spec Reporter | ESLint |
-| Retry Mechanisms |  | Prettier |
----
+### 💻 Languages
+
+- JavaScript (ES6)
+- HTML
+- CSS
+- DOM
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🧪 Test Automation
+
+- Playwright
+- Cypress
+- WebdriverIO
+- REST API
+- Native Fetch API
+- Postman
+
+</td>
+
+<td valign="top" width="33%">
+
+### ⚙️ Tools & Practices
+
+- Mocha
+- Chai
+- Page Object Model (POM)
+- Git
+- GitHub
+- GitHub Actions
+- ESLint
+- Prettier
+- Allure Reporter
+- Mochawesome
+- HTML Reporter
+- Spec Reporter
+
+</td>
+</tr>
+</table>
 
 ## Projects
 

@@ -20,40 +20,23 @@ I enjoy building clean and maintainable automation frameworks, improving softwar
 
 ## 🛠 Tech Stack
 
-### Languages & Frameworks
-
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=js,nodejs,playwright,cypress,html,css,git,github,vscode" />
 </p>
 
-### Testing & QA Tools
+**Testing & QA**
 
-<p>
-
-<img src="https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Page_Object_Model-POM-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Allure-ff69b4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Mochawesome-green?style=for-the-badge"/>
-
-</p>
-
+- WebdriverIO
+- REST API
+- Postman
+- Mocha
+- Chai
+- GitHub Actions
+- ESLint
+- Prettier
+- Allure Report
+- Mochawesome
+- Page Object Model (POM)
 ---
 
 ## 🚀 Featured Projects

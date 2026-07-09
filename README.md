@@ -1,142 +1,135 @@
 # Hi, I'm Yuliia Fonaskova 👋
 
-## Junior QA Automation Engineer | JavaScript | Playwright | Cypress | WebdriverIO | API Testing
+## Junior QA Automation Engineer
 
 📍 Kraków, Poland
 
+JavaScript • Playwright • Cypress • WebdriverIO • API Testing
+
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-I am a Junior QA Automation Engineer focused on JavaScript test automation.
+I am a Junior QA Automation Engineer specializing in JavaScript test automation.
 
 Currently, I am completing the **EPAM Specialization in Automated Testing in JavaScript**, where I build automation frameworks, implement UI and API tests, configure CI pipelines, and apply software engineering best practices.
 
-I enjoy creating clean, maintainable automation frameworks using the Page Object Model, writing reliable UI and API tests, and continuously improving my technical skills.
+I enjoy building clean and maintainable automation frameworks, improving software quality, and continuously learning modern QA technologies.
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
+### Languages & Frameworks
 
-### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,nodejs,playwright,cypress,html,css,git,github,vscode" />
+</p>
 
-- JavaScript (ES6)
-- HTML
-- CSS
-- DOM
+### Testing & QA Tools
 
-</td>
+<p>
 
-<td valign="top" width="33%">
+<img src="https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white"/>
 
-### 🧪 Test Automation
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
-- Playwright
-- Cypress
-- WebdriverIO
-- REST API
-- Native Fetch API
-- Postman
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
 
-</td>
+<img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
 
-<td valign="top" width="33%">
+<img src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge"/>
 
-### ⚙️ Tools & Practices
+<img src="https://img.shields.io/badge/Page_Object_Model-POM-blue?style=for-the-badge"/>
 
-- Mocha
-- Chai
-- Page Object Model (POM)
-- Git
-- GitHub
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Allure-ff69b4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Mochawesome-green?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎭 Playwright Practice Software Testing
+
+**JavaScript • Playwright • POM • HTML Reporter • GitHub Actions**
+
+- Cross-browser testing (Chromium, Firefox, WebKit)
+- Parallel execution
+- Retry mechanism
+- Login, Search, Product Details, Cart
+- GitHub Actions + ESLint + Prettier
+
+🔗 https://github.com/YuliiaFonaskova/PlaywrightPracticeSoftwareTesting
+
+---
+
+### 🌲 Cypress Practice Software Testing
+
+**JavaScript • Cypress • Mochawesome • POM • GitHub Actions**
+
+- Chrome, Firefox and Edge execution
+- Mochawesome HTML reports
+- Login, Search, Product Details, Cart
+- ESLint + Prettier
 - GitHub Actions
-- ESLint
-- Prettier
-- Allure Reporter
-- Mochawesome
-- HTML Reporter
-- Spec Reporter
 
-</td>
-</tr>
-</table>
-
-## Projects
-
-### 🚀 Playwright Practice Software Testing
-
-**Technologies:** JavaScript, Playwright, POM, Dotenv, HTML Reporter, ESLint, Prettier, GitHub Actions
-
-- Automated login, search, product details, and cart scenarios.
-- Implemented reusable Page Object Model architecture.
-- Configured cross-browser execution with Chromium, Firefox, and WebKit.
-- Enabled parallel execution and retry mechanism.
-- Integrated HTML reporting.
-- Configured GitHub Actions to run linters before automated tests.
-
-🔗 [Repository](https://github.com/YuliiaFonaskova/PlaywrightPracticeSoftwareTesting)
+🔗 https://github.com/YuliiaFonaskova/CypressPracticeSoftwareTesting
 
 ---
 
-### 🚀 Cypress Practice Software Testing
+### 📮 API Practice Software Testing
 
-**Technologies:** JavaScript, Cypress, POM, Mochawesome, ESLint, Prettier, GitHub Actions
+**JavaScript • REST API • Native Fetch API • Mocha • Chai**
 
-- Automated login, search, product details, and cart scenarios.
-- Implemented reusable Page Object Model architecture.
-- Configured cross-browser execution with Chrome, Firefox, and Edge.
-- Generated HTML and JSON reports with Mochawesome.
-- Configured GitHub Actions pipeline with linting and automated test execution.
+- Authentication
+- CRUD Operations
+- Status code validation
+- Header validation
+- Response body validation
+- GitHub Actions
 
-🔗 [Repository](https://github.com/YuliiaFonaskova/CypressPracticeSoftwareTesting)
-
----
-
-### 🚀 API Practice Software Testing
-
-**Technologies:** JavaScript, Native Fetch API, REST API, Mocha, Chai, ESLint, Prettier, GitHub Actions
-
-- Built an API automation framework for the Restful Booker API.
-- Automated authentication and full CRUD operations.
-- Verified status codes, headers, and response bodies.
-- Implemented reusable service layer and test data.
-- Integrated API tests into GitHub Actions.
-
-🔗 [Repository](https://github.com/YuliiaFonaskova/APIPractiseSoftwareTesting)
+🔗 https://github.com/YuliiaFonaskova/APIPractiseSoftwareTesting
 
 ---
 
-### 🚀 WebdriverIO Practice Software Testing
+### ⚡ WebdriverIO Practice Software Testing
 
-**Technologies:** JavaScript, WebdriverIO, Mocha, Chai, POM, HTML Reporter, Spec Reporter, ESLint, Prettier, GitHub Actions
+**JavaScript • WebdriverIO • HTML Reporter • Spec Reporter**
 
-- Automated end-to-end UI scenarios.
-- Implemented reusable Page Object Model architecture.
-- Integrated HTML and console reporting.
-- Configured GitHub Actions with automated linting and UI testing.
+- End-to-end UI testing
+- Page Object Model
+- HTML reports
+- ESLint + Prettier
+- GitHub Actions
 
-🔗 [Repository](https://github.com/YuliiaFonaskova/WebdriverIOPracticeSoftwareTesting)
+🔗 https://github.com/YuliiaFonaskova/WebdriverIOPracticeSoftwareTesting
 
 ---
 
 ### 🚀 WebdriverIO SauceDemo Testing
 
-**Technologies:** JavaScript, WebdriverIO, Mocha, Chai, POM, Allure Reporter, ESLint
+**JavaScript • WebdriverIO • Allure Reporter**
 
-- Automated login, product details, cart, and footer scenarios.
-- Implemented reusable Page Object Model architecture.
-- Generated Allure reports.
-- Practiced UI automation with WebdriverIO.
+- Login automation
+- Product page
+- Cart
+- Footer
+- Allure reports
 
-🔗 [Repository](https://github.com/YuliiaFonaskova/WebdriverioSaucedemoTesting)
+🔗 https://github.com/YuliiaFonaskova/WebdriverioSaucedemoTesting
 
 ---
 
-## Courses & Training
+## 🎓 Courses
 
 - EPAM Systems — Specialization: Automated Testing in JavaScript
 - EPAM Systems — Fundamentals of Automated Testing in JavaScript
@@ -146,7 +139,7 @@ I enjoy creating clean, maintainable automation frameworks using the Page Object
 
 ---
 
-## Certifications
+## 🏆 Certifications
 
 - Automated Testing in JavaScript — EPAM Systems
 - Claude 101 — Anthropic
@@ -157,10 +150,16 @@ I enjoy creating clean, maintainable automation frameworks using the Page Object
 
 ---
 
-## Contact
+## 📫 Contact Me
 
-📧 Email: **yuliia.fonaskova@gmail.com**
+📧 **Email**
 
-💼 LinkedIn: [linkedin.com/in/yuliia-fonaskova](https://www.linkedin.com/in/yuliia-fonaskova)
+**yuliia.fonaskova@gmail.com**
 
-🐱 GitHub: [github.com/YuliiaFonaskova](https://github.com/YuliiaFonaskova)
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/yuliia-fonaskova
+
+🐱 **GitHub**
+
+https://github.com/YuliiaFonaskova

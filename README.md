@@ -32,7 +32,7 @@ UI test automation using JavaScript, WebdriverIO, Mocha, Chai, Page Object Model
 
 ### [REST API Test Automation](https://github.com/YuliiaFonaskova/APIPractiseSoftwareTesting)
 REST API test automation using JavaScript, Fetch API, Mocha, Chai, CRUD operations, response validation, and GitHub Actions.
----
+
 
 ## Training & Certifications
 

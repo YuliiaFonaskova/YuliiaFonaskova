@@ -38,7 +38,6 @@ REST API test automation using JavaScript, Fetch API, Mocha, Chai, CRUD operatio
 
 ### QA & Automation
 - EPAM Systems — Automated Testing in JavaScript Specialization
-- Beetroot Academy — QA Manual Testing
 - LinkedIn Learning — Behavior-Driven Development
 - LinkedIn Learning — API Testing Foundations
 - LinkedIn Learning — Postman Essential Training

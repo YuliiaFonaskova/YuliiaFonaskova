@@ -6,7 +6,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I am a Junior QA Automation Engineer focused on JavaScript test automation.
 
@@ -16,101 +16,39 @@ I focus on writing clean, maintainable test automation and continuously developi
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-## 🎭 Playwright Practice Software Testing
+### [Playwright E2E Automation Framework](https://github.com/YuliiaFonaskova/PlaywrightPracticeSoftwareTesting)
+End-to-end UI test automation using JavaScript, Playwright, Page Object Model, cross-browser execution, parallel testing, reporting, and GitHub Actions.
 
-**JavaScript • Playwright • Page Object Model • HTML Reporter • GitHub Actions**
+### [Cucumber BDD Test Automation](https://github.com/YuliiaFonaskova/CucumberPracticeSoftwareTesting)
+BDD-based UI test automation using JavaScript, WebdriverIO, Cucumber, Gherkin, Page Object Model, tagged test execution, reporting, and GitHub Actions.
 
-- Automated login, search, product details, and cart scenarios.
-- Cross-browser testing (Chromium, Firefox, WebKit).
-- Parallel execution and retry mechanism.
-- Integrated ESLint, Prettier, and GitHub Actions.
+### [Cypress E2E Automation](https://github.com/YuliiaFonaskova/CypressPracticeSoftwareTesting)
+End-to-end UI test automation using JavaScript, Cypress, Page Object Model, cross-browser execution, Mochawesome reporting, and GitHub Actions.
 
-🔗 Repository
+### [WebdriverIO E2E Automation](https://github.com/YuliiaFonaskova/WebdriverIOPracticeSoftwareTesting)
+UI test automation using JavaScript, WebdriverIO, Mocha, Chai, Page Object Model, reporting, and GitHub Actions.
 
-https://github.com/YuliiaFonaskova/PlaywrightPracticeSoftwareTesting
-
+### [REST API Test Automation](https://github.com/YuliiaFonaskova/APIPractiseSoftwareTesting)
+REST API test automation using JavaScript, Fetch API, Mocha, Chai, CRUD operations, response validation, and GitHub Actions.
 ---
 
-## 🌲 Cypress Practice Software Testing
+## Training & Certifications
 
-**JavaScript • Cypress • Mochawesome • GitHub Actions**
-
-- Automated login, search, product details, and cart scenarios.
-- Cross-browser testing (Chrome, Firefox, Edge).
-- HTML and JSON reporting with Mochawesome.
-- Integrated ESLint, Prettier, and GitHub Actions.
-
-🔗 Repository
-
-https://github.com/YuliiaFonaskova/CypressPracticeSoftwareTesting
-
----
-
-## 📮 API Practice Software Testing
-
-**JavaScript • REST API • Native Fetch API • Mocha • Chai**
-
-- Automated authentication and CRUD operations.
-- Validated status codes, headers, and response bodies.
-- Built reusable API services and test data.
-- Integrated GitHub Actions.
-
-🔗 Repository
-
-https://github.com/YuliiaFonaskova/APIPractiseSoftwareTesting
-
----
-
-## ⚡ WebdriverIO Practice Software Testing
-
-**JavaScript • WebdriverIO • HTML Reporter • Spec Reporter**
-
-- Automated end-to-end UI scenarios.
-- Implemented reusable Page Object Model architecture.
-- Integrated HTML reporting.
-- Configured ESLint, Prettier, and GitHub Actions.
-
-🔗 Repository
-
-https://github.com/YuliiaFonaskova/WebdriverIOPracticeSoftwareTesting
-
----
-
-## 🚀 WebdriverIO SauceDemo Testing
-
-**JavaScript • WebdriverIO • Allure Reporter**
-
-- Automated login, product details, cart, and footer scenarios.
-- Implemented reusable Page Object Model architecture.
-- Generated Allure reports.
-
-🔗 Repository
-
-https://github.com/YuliiaFonaskova/WebdriverioSaucedemoTesting
-
----
-
-# 🎓 Courses
-
-- EPAM Systems — Specialization: Automated Testing in JavaScript
-- EPAM Systems — Fundamentals of Automated Testing in JavaScript
-- EPAM Systems — Introduction to Automated Testing in JavaScript
+### QA & Automation
+- EPAM Systems — Automated Testing in JavaScript Specialization
 - Beetroot Academy — QA Manual Testing
-- Genius Space — Software Tester
+- LinkedIn Learning — Behavior-Driven Development
+- LinkedIn Learning — API Testing Foundations
+- LinkedIn Learning — Postman Essential Training
+- LinkedIn Learning — JavaScript: Patterns
+- LinkedIn Learning — Node.js: Testing and Code Quality
 
----
-
-# 🏆 Certifications
-
-- Automated Testing in JavaScript — EPAM Systems
-- Claude 101 — Anthropic
-- JavaScript: Patterns — LinkedIn Learning
-- API Testing Foundations (2018) — LinkedIn Learning
-- API Testing Foundations — LinkedIn Learning
-- Postman Essential Training — LinkedIn Learning
-
+### AI
+- Anthropic — AI Fluency for Builders
+- Anthropic — Introduction to Model Context Protocol (MCP)
+- Anthropic — Introduction to Subagents
 ---
 
 # 📫 Contact

@@ -8,11 +8,11 @@
 
 ## 👩‍💻 About Me
 
-I am a Junior QA Automation Engineer specializing in JavaScript test automation.
+I am a Junior QA Automation Engineer focused on JavaScript test automation.
 
-Currently, I am completing the **EPAM Specialization in Automated Testing in JavaScript**, where I build automation frameworks, implement UI and API tests, configure CI pipelines, and apply software engineering best practices.
+I have hands-on experience building UI and API test automation projects using Playwright, Cypress, WebdriverIO, Cucumber, and REST APIs. My projects include Page Object Model architecture, BDD with Gherkin, cross-browser testing, automated reporting, and CI with GitHub Actions.
 
-I enjoy creating clean and maintainable automation frameworks, improving software quality, and continuously learning modern QA technologies.
+I focus on writing clean, maintainable test automation and continuously developing my software testing and automation skills.
 
 ---
 

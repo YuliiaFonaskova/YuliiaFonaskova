@@ -28,18 +28,18 @@ Passionate about layered test architectures (Page Object Model, Service Object p
 
 ## 🚀 Featured Projects
 
-### 1. [Playwright & TypeScript API Automation Framework](https://github.com/YuliiaFonaskova/PlaywrighTypeScriptApiTesting)
-> **Stack:** *TypeScript • Playwright API • Custom Fixtures • Docker Compose • MariaDB • ESLint • Prettier*
-- Type-safe, layered API framework (`Core`, `Business`, `Fixtures`, `Tests`) built with Playwright `APIRequestContext` and TypeScript (`strict: true`).
-- **11 automated API scenarios** across **4 suites** (Auth, Products, Cart, Health) covering JWT authentication, CRUD flows, and negative validations.
-- Playwright Custom Fixtures (`test.extend`) for service injection and automatic test data teardown on a local Docker Compose + MariaDB stack with `tsc`/ESLint/Prettier checks.
-
-### 2. [Playwright E2E Automation Framework](https://github.com/YuliiaFonaskova/PlaywrightPracticeSoftwareTesting)
+### 1. [Playwright E2E Automation Framework](https://github.com/YuliiaFonaskova/PlaywrightPracticeSoftwareTesting)
 > **Stack:** *JavaScript • Playwright • Page Object Model • GitHub Actions • HTML Reporter • AGENTS.md*
 - Layered E2E automation framework using POM and externalized JSON test data fixtures.
 - **16 automated E2E scenarios** across **4 suites** (login, search, product, cart).
 - Parallel cross-browser execution (**48 test runs** across Chromium, Firefox, and WebKit) with retries and HTML reporting.
 - GitHub Actions CI pipeline with ESLint/Prettier quality gates and AI guardrails (`AGENTS.md`, MCP).
+
+### 2. [Playwright & TypeScript API Automation Framework](https://github.com/YuliiaFonaskova/PlaywrighTypeScriptApiTesting)
+> **Stack:** *TypeScript • Playwright API • Custom Fixtures • Docker Compose • MariaDB • ESLint • Prettier*
+- Type-safe, layered API framework (`Core`, `Business`, `Fixtures`, `Tests`) built with Playwright `APIRequestContext` and TypeScript (`strict: true`).
+- **11 automated API scenarios** across **4 suites** (Auth, Products, Cart, Health) covering JWT authentication, CRUD flows, and negative validations.
+- Playwright Custom Fixtures (`test.extend`) for service injection and automatic test data teardown on a local Docker Compose + MariaDB stack with `tsc`/ESLint/Prettier checks.
 
 ### 3. [Cypress E2E Automation](https://github.com/YuliiaFonaskova/CypressPracticeSoftwareTesting)
 > **Stack:** *JavaScript • Cypress • Page Object Model • Mochawesome • Docker Compose • GitHub Actions*
@@ -90,7 +90,7 @@ Passionate about layered test architectures (Page Object Model, Service Object p
 - **Claude Code in Action** — Anthropic
 - **Introduction to Model Context Protocol (MCP)** — Anthropic
 - **Introduction to Agent Skills** — Anthropic
-- **SQL and Relational Databases 101**- IBM
+- **SQL and Relational Databases 101** - IBM
 
 ---
 
